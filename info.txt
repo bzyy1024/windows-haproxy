@@ -1,0 +1,10 @@
+
+
+
+
+启动命令
+
+haproxy.exe -f haproxy.cfg
+
+http://localhost:7528/stats
+
